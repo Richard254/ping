@@ -1,0 +1,69 @@
+.richie {
+  background-image: url("../img/color.jpg");
+  background-repeat: repeat;
+  color: #8F1C04;
+  padding: 60px;
+  margin-bottom: 0px;
+}
+
+
+
+
+.richie h1 {
+    font-size: 164px;
+    font-family: SHOWCARD GOTHIC;
+    color: black;
+
+}
+
+
+.sidebar {
+  background-color: #c7e8fd;
+  padding: 20px;
+  padding-top: 50px;
+  margin: 50px;
+  box-shadow: 15px 15px #000;
+  background-image:  url("../img/sidebar2.jpg");
+}
+
+.sidebar a {
+  color: blue;
+}
+
+.sidebar h4 {
+  color: black;
+
+}
+
+.container {
+  margin-left: 0px;
+  margin-top: 0px;
+}
+
+.play {
+  margin: 60px;
+  margin-left: 0px;
+  box-shadow: 10px 10px #000;
+  background-color: white;
+  padding: 30px;
+}
+
+.play h4 {
+  color: red;
+  font-family: Helevitica;
+}
+
+.play h2 {
+  color: orange;
+  font-family: Broadway;
+}
+
+.btn {
+  font-style: bold;
+  margin-top: 25px;
+}
+
+body {
+  background-image: url("../img/splash.jpg");
+  background-repeat: repeat;
+}
